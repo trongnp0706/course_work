@@ -1,0 +1,8 @@
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.csproj.AssemblyReference.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.AssemblyInfoInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.AssemblyInfo.cs
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.RazorAssemblyInfo.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\TWeb\obj\Debug\net8.0\DrsfanBookWeb.RazorAssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\bin\Debug\net8.0\T.Utility.deps.json
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\bin\Debug\net8.0\T.Utility.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\bin\Debug\net8.0\T.Utility.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\T.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\T.Utility.AssemblyInfoInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\T.Utility.AssemblyInfo.cs
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\T.Utility.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\T.Utility.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\refint\T.Utility.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\T.Utility.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Utility\obj\Debug\net8.0\ref\T.Utility.dll

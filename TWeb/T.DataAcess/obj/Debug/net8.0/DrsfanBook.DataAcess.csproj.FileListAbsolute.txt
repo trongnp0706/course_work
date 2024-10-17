@@ -1,0 +1,17 @@
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\bin\Debug\net8.0\DrsfanBook.DataAcess.deps.json
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\bin\Debug\net8.0\DrsfanBook.DataAcess.runtimeconfig.json
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\bin\Debug\net8.0\DrsfanBook.DataAcess.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\bin\Debug\net8.0\DrsfanBook.DataAcess.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\bin\Debug\net8.0\DrsfanBook.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\bin\Debug\net8.0\DrsfanBook.Models.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.csproj.AssemblyReference.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.AssemblyInfoInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.AssemblyInfo.cs
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBo.4FA0AA7E.Up2Date
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\refint\DrsfanBook.DataAcess.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\DrsfanBook.DataAcess.genruntimeconfig.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.DataAcess\obj\Debug\net8.0\ref\DrsfanBook.DataAcess.dll

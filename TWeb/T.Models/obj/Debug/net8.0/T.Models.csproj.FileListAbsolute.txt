@@ -1,0 +1,11 @@
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\bin\Debug\net8.0\T.Models.deps.json
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\bin\Debug\net8.0\T.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\bin\Debug\net8.0\T.Models.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\T.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\T.Models.AssemblyInfoInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\T.Models.AssemblyInfo.cs
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\T.Models.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\T.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\refint\T.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\T.Models.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\ref\T.Models.dll

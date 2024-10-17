@@ -1,0 +1,11 @@
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\bin\Debug\net8.0\DrsfanBook.Models.deps.json
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\bin\Debug\net8.0\DrsfanBook.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\bin\Debug\net8.0\DrsfanBook.Models.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\DrsfanBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\DrsfanBook.Models.AssemblyInfoInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\DrsfanBook.Models.AssemblyInfo.cs
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\DrsfanBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\DrsfanBook.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\refint\DrsfanBook.Models.dll
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\DrsfanBook.Models.pdb
+C:\Users\phuoc\OneDrive\Desktop\New folder\TWeb\T.Models\obj\Debug\net8.0\ref\DrsfanBook.Models.dll
